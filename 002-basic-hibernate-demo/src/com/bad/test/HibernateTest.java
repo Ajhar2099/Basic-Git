@@ -37,4 +37,7 @@ public class HibernateTest {
 		}
 		SessionFactoryHelper.close();
 	}
+	public void method1(){
+		System.out.println("checking  in git");
+	}
 }
